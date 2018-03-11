@@ -11,16 +11,16 @@ How to DJ (Properly)
 ---------
 FOSS Apps
 ---------
-`Mixxx <https://www.mixxx.org/>`_
+- `Mixxx <https://www.mixxx.org/>`_
 
 --------------
 Audio Backends
 --------------
-`Superpowered <http://superpowered.com/>`_
-`Vamp <http://www.isophonics.net/QMVampPlugins>`_
+- `Superpowered <http://superpowered.com/>`_
+- `Vamp <http://www.isophonics.net/QMVampPlugins>`_
 
 -----------
 VR Learning
 -----------
-`TribeXR's DJ School <https://www.tribevr.io>`_
+- `TribeXR's DJ School <https://www.tribevr.io>`_
 
