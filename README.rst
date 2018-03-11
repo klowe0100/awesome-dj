@@ -3,7 +3,7 @@ Books
 -----
 
 How to DJ (Properly)
---------------------
+++++++++++++++++++++
 
 :Authors: Frank Broughton & Bill Brewster
 :Subtitle: The Art and Science of Playing Records
