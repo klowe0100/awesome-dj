@@ -8,11 +8,16 @@ How to DJ (Properly)
 :Authors: Frank Broughton & Bill Brewster
 :Subtitle: The Art and Science of Playing Records
 
-----
-FOSS
-----
-Mixxx
-http://www.isophonics.net/QMVampPlugins
+---------
+FOSS Apps
+---------
+`Mixxx <https://www.mixxx.org/>`_
+
+--------------
+Audio Backends
+--------------
+`Superpowered <http://superpowered.com/>`_
+`Vamp <http://www.isophonics.net/QMVampPlugins>`_
 
 -----------
 VR Learning
