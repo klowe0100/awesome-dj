@@ -17,5 +17,5 @@ http://www.isophonics.net/QMVampPlugins
 -----------
 VR Learning
 -----------
-`TribeXR's DJ School <https://www.tribevr.io>`_.
+`TribeXR's DJ School <https://www.tribevr.io>`_
 
