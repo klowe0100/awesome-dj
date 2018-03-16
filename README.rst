@@ -24,3 +24,20 @@ VR Learning
 -----------
 - `TribeXR's DJ School <https://www.tribevr.io>`_
 
+-----------------
+Equipment Reviews
+-----------------
+- https://store.djtechtools.com/
+- https://www.youtube.com/user/eangolden
+
+-----
+VLOGS
+-----
+- https://www.youtube.com/user/songstowearpantsto
+
+--------
+Stations
+--------
+- http://solidsteel.net/broadcasts/1115
+- https://www.nts.live/
+
