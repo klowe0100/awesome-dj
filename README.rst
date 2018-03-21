@@ -27,13 +27,14 @@ VR Learning
 -----------------
 Equipment Reviews
 -----------------
-- https://store.djtechtools.com/
+- http://djtechtools.com 
 - https://www.youtube.com/user/eangolden
 
 -----
 VLOGS
 -----
 - https://www.youtube.com/user/songstowearpantsto
+- https://www.youtube.com/channel/UC7oEb0WuQTZitaPz9W7SQUw
 
 --------
 Stations
