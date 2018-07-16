@@ -23,7 +23,7 @@ Audio Backends
 -----------
 VR Learning
 -----------
-- `TribeXR's DJ School <https://www.tribevr.io>`_
+- `TribeXR's DJ School <https://www.tribexr.com>`_
 
 -----------------
 Equipment Reviews
