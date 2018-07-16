@@ -12,6 +12,7 @@ How to DJ (Properly)
 FOSS Apps
 ---------
 - `Mixxx <https://www.mixxx.org/>`_
+- `Audacity <https://www.audacityteam.org/>`_
 
 --------------
 Audio Backends
